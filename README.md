@@ -20,7 +20,7 @@ void showProjects() {
 
 void showContact() {
     cout << "\n--- Contact ---" << endl;
-    cout << "Email: john.doe@example.com" << endl;
+    cout << "Email: pranjal.doe@example.com" << endl;
     cout << "LinkedIn: linkedin.com/in/johndoe" << endl;
     cout << "GitHub: github.com/johndoe" << endl;
 }
